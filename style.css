@@ -1,0 +1,22 @@
+th {
+    letter-spacing: 2px;
+}
+
+td {
+    letter-spacing: 1px;
+
+}
+
+tbody td {
+    text-align: center;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td, tbody, table{
+    border: 1px solid black;
+}
